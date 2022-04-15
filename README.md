@@ -1,6 +1,6 @@
 # CalculoViagem - PYTHON
 
-#############  Atividade Criar Algoritimo ##############33
+#############  Atividade Criar Algoritimo ##############
 '''
  Faça um algoritmo que calcule a quantidade de litros de combustível gasta em uma viagem,
  utilizando um automóvel que faz 12Km por litro.
